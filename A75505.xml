@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the proceedings and transactions that have happened in the kingdom of England, since the arrival of the Dutch fleet, and the landing of the Prince of Orange's army, &amp;c. As also, the progress the Prince made; the going over to him of the nobility, &amp;c. The seizure of towns, skirmishes, and matters of the like nature: the Kings journey to Salisbury; his retreat and departure from London; his return, and the arrival of the Prince, the proceedings at London and Westminster, upon that occasion. Together with the King and Queens departure for France, and arrival there. Also, the manner of the taking the Lord Chancellor, and divers others. Impartially related from the best and most authentick intelligence and advice, and published for the general satisfaction of the nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75505</idno>
+            <idno type="STC">Wing A354C</idno>
+            <idno type="STC">ESTC R229896</idno>
+            <idno type="EEBO-CITATION">99895859</idno>
+            <idno type="PROQUEST">99895859</idno>
+            <idno type="VID">153379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2361:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the proceedings and transactions that have happened in the kingdom of England, since the arrival of the Dutch fleet, and the landing of the Prince of Orange's army, &amp;c. As also, the progress the Prince made; the going over to him of the nobility, &amp;c. The seizure of towns, skirmishes, and matters of the like nature: the Kings journey to Salisbury; his retreat and departure from London; his return, and the arrival of the Prince, the proceedings at London and Westminster, upon that occasion. Together with the King and Queens departure for France, and arrival there. Also, the manner of the taking the Lord Chancellor, and divers others. Impartially related from the best and most authentick intelligence and advice, and published for the general satisfaction of the nation.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for P. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153379:1" rendition="simple:additions"/>
+            <p>An ACCOUNT OF THE Proceedings and Transactions that have happened in the Kingdom of ENGLAND, Since the Arrival of the <hi>Dutch</hi> FLEET, And the LANDING of the Prince of Orange's ARMY, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>As alſo,</hi> The Progreſs the <hi>Prince</hi> made; The going over to him of the Nobility, <hi>&amp;c.</hi> The Seizure of Towns, Skirmiſhes, and Matters of the like Nature: The Kings Journey to <hi>Salisbury;</hi> His Retreat and Depar<g ref="char:EOLhyphen"/>ture from <hi>London;</hi> His Return, and the Arrival of the <hi>Prince,</hi> the pro<g ref="char:EOLhyphen"/>ceedings at <hi>London</hi> and <hi>Weſtminſter,</hi> upon that Occaſion. Together with the King and Queens departure for <hi>France,</hi> and Arrival there. <hi>Alſo,</hi> The manner of the Taking the Lord <hi>Chancellor,</hi> and divers others.</p>
+            <p>Impartially Related from the beſt and moſt Authentick INTELLIGENCE and ADVICE, and Publiſhed for the General Satisfacti<g ref="char:EOLhyphen"/>on of the Nation.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. B.</hi> in the Year 1688.</p>
+            <pb facs="tcp:153379:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:153379:3"/>
+            <head>A Brief Account of the Proceedings and Tranſactions that have hap<g ref="char:EOLhyphen"/>pened in the Kingdom of <hi>England,</hi> ſince the Arrival of the <hi>Dutch</hi> Fleet, and Landing of the Prince of <hi>Orange's</hi> Army, <hi>&amp;c.</hi>
+            </head>
+            <p>ON the third of <hi>November,</hi> about eleven of the Clock, a<g ref="char:EOLhyphen"/>bout half Seas over, the <hi>Dutch</hi> Fleet was diſcovered, and about five in the Afternoon paſſed by <hi>Dover,</hi> ſteering a Channel Courſe Weſtward, the Wind at Eaſt, North-Eaſt, a very freſh Gale, when on the ſame day the <hi>Swallow,</hi> an <hi>Engliſh</hi> Ship, Commanded by Captain <hi>Aylmer,</hi> brought into the <hi>Downs</hi> a Fly-boat, a Tender to the <hi>Dutch</hi> Fleet, having on Board 4 Companies of Foot of Colonel <hi>Babington</hi>'s Regiment, Com<g ref="char:EOLhyphen"/>manded by Major <hi>Collambine,</hi> and had notice that His Highneſs the Prince of <hi>Orange</hi> was on Board the Fleet that ſet Sail from the <hi>Gore</hi> on the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  in the Afternoon: And on the 5th. of <hi>November,</hi> about 9 of the Cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck in the Morning the Fleet, upon the clearing up of the Weather, appeared off <hi>Plymouth,</hi> conſiſting of ſix hundred thirty five men of War, Fly-boats, Pinks and Fire-ſhips, as the Account Printed in <hi>Holland</hi> mentions, <hi>viz.</hi> Sixty five men of War, five hundred Fly-boats, ſixty Pinks, and ten Fire-ſhips; the Army on Board being according to the ſaid account, ten thouſand ſix hundred ninety two Foot, and three thouſand ſix hundred ſixty Horſe, tho' ſince we have found an Additional num<g ref="char:EOLhyphen"/>ber, and ſo they proceeded to Land, having likewiſe had a ſmall Pink taken by Captain <hi>Haſtings,</hi> Commander of the <hi>Woolwich,</hi> be<g ref="char:EOLhyphen"/>low <hi>Hole-Haven</hi> ſeparated from the Fleet, and containing on Board only an inconſiderable number; as alſo a Fiſher-boat with twenty four Horſe.</p>
+            <p>By this time His Highneſs having Landed his Men at <hi>Tor<g ref="char:EOLhyphen"/>bay</hi> and other places, after a Refreſhment, marched towards the City of <hi>Exeter,</hi> which without any oppoſition received him with many demonſtrations of Joy, He entering that City in much
+<pb n="2" facs="tcp:153379:3"/>Splendor, and with the loud Huzza's and Shouts of the Peo<g ref="char:EOLhyphen"/>ple, the Bells Ringing, and the Bonefires at night flaming in every Street; yet the Biſhop retiring, and the Mayor not being altogether ready to comply with his Highneſs's Commands, Or<g ref="char:EOLhyphen"/>ders were taken for the ſecurity of that City, and ſuch as had Shooes, and other neceſſaries convenient for the Army, were ordered to bring them in, and receive Money for them at Marketable Rates. And here it was that His Highneſs's Declaration, relating His Intentions for the preſervation of the Proteſtant Religion, and Redreſſing the Grievances of the Nation, by removing Evil Counſellors, <hi>&amp;c.</hi> was publiſhed, more eſpecially publickly Read. And ſundry Perſons Liſted themſelves under His Highneſs, to whom Arms were given and diſtributed; and for the better Con<g ref="char:EOLhyphen"/>venience of the Artillery, eſpecially in Landing, it was con<g ref="char:EOLhyphen"/>veyed in the Ships that brought it out of <hi>Holland,</hi> to <hi>Topſham,</hi> together with the Carriages there, being Landed, in order to be brought to the Army.</p>
+            <p>The Prince ſtill continuing in <hi>Exeter,</hi> Dr. <hi>Burnet</hi> read His High<g ref="char:EOLhyphen"/>neſs's Declaration in the Cathedral, and Preached there, being attended by a numerous Auditory, people crowding from all parts to ſee and hear him: And <hi>Robert Ferguſon</hi> preached in the great Meeting Houſe.</p>
+            <p>Immediately after theſe Tranſactions, we had News that the Lord <hi>Lovelace,</hi> going to the Prince with about ſeventy Horſe, very well Armed and Appointed, was ſtopped in <hi>Cereenceſter</hi> by the Militia of thoſe parts, but not willing to ſubmit himſelf, a Diſ<g ref="char:EOLhyphen"/>pute enſued, in which divers were killed, and his Lordſhip at that time ſecured, by the Order of the Duke of <hi>Beauſort,</hi> with divers others taken at the ſame time.</p>
+            <p>Soon after this the Lord <hi>Cornbury,</hi> with divers of the Forces under his Command, went over to His Highneſs the Prince of <hi>Orange,</hi> together wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Colonel <hi>Langſton</hi> Commander of the Regiment of St. <hi>Albans;</hi> ſo that at this time, the greater part of three Re<g ref="char:EOLhyphen"/>giments of Horſe and Dragoons eſpouſed the Princes Intereſt. Upon notice of which for the Souldiers better obſerving them<g ref="char:EOLhyphen"/>ſelves
+<pb n="3" facs="tcp:153379:4"/>in the Countries where they Marched, the King publiſh<g ref="char:EOLhyphen"/>ed an Order for their good Behaviour, and paying their Quar<g ref="char:EOLhyphen"/>ters, <hi>&amp;c.</hi> under a Reſtriction both to Soldiers and Officers, as alſo by what means, or to whom the Injured Parties ſhould have Recourſe for their Redreſs, in caſe they found themſelves aggriev<g ref="char:EOLhyphen"/>ed, together with other Proclamations and Orders, too tedious to Incert in this Relation, <hi>&amp;c.</hi>
+            </p>
+            <p>The next material News we received, was, That the <hi>Dutch</hi> Fleet was di<g ref="char:EOLhyphen"/>ligently keeping the Coaſt, &amp; the <hi>Engliſh</hi> Fleet, under the Commaud of the Lord <hi>Dartmonth,</hi> was plying off <hi>Portſmouth,</hi> at Eaſt South-Eaſt, the Wind blowing very hard at South, but with no diſpoſition tending to an Ingage<g ref="char:EOLhyphen"/>ment; which appeared by ſeveral of the latter ſoon after coming into a Harbour.</p>
+            <p>On the 19th. of <hi>Novemb.</hi> in the Evening, the King approached <hi>Salisbury,</hi> and was met about a Mile from thence by the Principal Officers of his Ar<g ref="char:EOLhyphen"/>my, who had Quartered his Forces in thoſe parts; as alſo by the Mayor and Aldermen in their Formalities, who waited upon him to the Biſhops Pallace, appointed for his Lodging. Soon after this, we had an account of the Lord <hi>Dalameers</hi> declaring for the Prince of <hi>Orange</hi> and preſervation of the Eſtabliſhed Religion and Laws, <hi>&amp;c.</hi> Exhorting his Tennants and Friends to joyn with him, appointing his Randezvous upon <hi>Boddon Downs,</hi> where he accordingly met with a numerous Concourſe or Attendance, well Armed and appointed with the promiſe of greater Aſſiſtance in Men and Money, his number ſtill encreaſing.</p>
+            <p>The Prince of <hi>Orange</hi> having ſecured the Weſtern parts as far as he had advanced, leaving <hi>Exeter,</hi> advanced with his Army, who by this time en<g ref="char:EOLhyphen"/>creaſed by the coming in of not only the Commons, but of divers of the Nobility and Gentry, left <hi>Exeter,</hi> a great part of his Forces being advan<g ref="char:EOLhyphen"/>ced a conſiderable March before him: And on the 20th. of <hi>November,</hi> the King Exhibited a Proclamation for the Pardon for thoſe that were gone over to his Highneſs the <hi>P.</hi> of <hi>Orange,</hi> if they returned, with Conditions: and ſoon after a Skirmiſh happened near <hi>Warminſter,</hi> wherein divers were kill<g ref="char:EOLhyphen"/>ed, and others taken Priſoners, <hi>&amp;c.</hi>
+            </p>
+            <p>On the 26 of <hi>Novemb.</hi> the King having left <hi>Salisbury,</hi> returned to <hi>White-Hall,</hi> and Collonel <hi>Skelion</hi> was appointed Lieutenant of the <hi>Tower:</hi> And on the 28 the Lord Chancellor had Orders, by the Kings Special Command, to Iſſue out Writs for the calling a <hi>Parliament,</hi> to Sit on the 15 of <hi>February,</hi> 1688; and purſuant thereto, Iſſued out his Proclamation, bearing Date the 30 of <hi>November.</hi> Whilſt things hapned, the <hi>Dutch</hi> Fleet at Sea, ſet up<g ref="char:EOLhyphen"/>on 5 <hi>French</hi> Men of War, and took three of them, ſinking the other two:
+<pb n="4" facs="tcp:153379:4"/>And ſoon after, the <hi>French</hi> King Proclaimed War againſt the <hi>States</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces;</hi> Commanding his Subjects to fall upon them with Fire and Sword; inſomuch, that they proceeded to burn ſeveral Villages upon the Frontiers; but had their Progreſs in that unchriſtian-like undertaking, by the advance of the Dutch Forces, and a ſudden Inundation of Waters.</p>
+            <p>And now his Royal Highneſs the Prince of <hi>Denmark,</hi> going over to the Prince of <hi>Orange,</hi> her Royal Highneſs withdrew in private, to the no ſmall Conſternation of the Court, leaving her Reaſons for her ſo doing: And di<g ref="char:EOLhyphen"/>vers Lords being up in Arms in the North, ſeized upon the City and Caſtle of <hi>York,</hi> making the Governour Priſoner, and diſarming, according to the Statute in that caſe provided, all Papiſts in thoſe parts; with whom, the Lieutenant-Governour of <hi>Hull,</hi> concurring, he ſo contrived it, that draw<g ref="char:EOLhyphen"/>ing the Townſ-men, a good part of the Garriſon, and many of the Sea<g ref="char:EOLhyphen"/>men, to ſide and take part with him, he not only ſeized the Governour of that ſtrong and Impotent Garriſon-Town, but ſecured the place for the In<g ref="char:EOLhyphen"/>tereſt of the Prince of <hi>Orange;</hi> making all the conſiderable Papiſts Priſon<g ref="char:EOLhyphen"/>ers, and turning out ſuch as were of no Power or Eſteem; to ſhift for Ha<g ref="char:EOLhyphen"/>bitations elſewhere: And the Lord <hi>Molenex,</hi> a Popiſh Lord, who was up in Arms in thoſe parts, was obliged to Retire, upon notice of the General Concurrence of the Northern Counties, with the Proteſtant Lords, then in Arms for the defence of the Laws and Religion, <hi>&amp;c.</hi>
+            </p>
+            <p>The Lord <hi>Lovelace,</hi> after his being ſurprized and taken at <hi>Cerenceſter,</hi> was carryed to <hi>Gloceſter,</hi> and there conſined as a Priſoner for ſome time; but the Sheriff, by Order, as we had it Credibly reported from the King, being about to remove him, and the people of thoſe parts getting notice of it, came in in ſuch numbers, that he found himſelf incapable of doing it: And whilſt the matter was delayed, ſome Troops of Horſe of the Prince's party Advanced and entred the Town, ſo that his Lordſhip was intirely ſet at Liberty, and went ſoon after to wait upon the Prince, who advanced by ſlow Marches, towards <hi>London.</hi>
+            </p>
+            <p>The Proceedings being thus far advanced, the Mobile, in moſt conſide<g ref="char:EOLhyphen"/>rable Towns, as well in the North as the Weſt, got together, and pulled down or defaced, the Popiſh Chapels and Maſs-Houſes, burning or carrying away the Trinkets and Superſtitious Trumpery; and defaced the Houſes of many noted Papiſts, as well Reſident as Abſent.</p>
+            <p>The King hearing of theſe Proceedings, and that a party of his Forces had been worſted near <hi>Twyford,</hi> by an Advance party of the Princes, on the 9 of <hi>December,</hi> and in the Diſpute, beſide the gaining of the paſs, a conſide<g ref="char:EOLhyphen"/>rable number of <hi>Scotch</hi> and <hi>Iriſh</hi> that were too far Advanced, killed; and that the Nobility and Gentry dayly fell away from him, he called a Coun<g ref="char:EOLhyphen"/>cil on the 12 of <hi>December,</hi> to Adviſe what was beſt to be done, the Queen
+<pb n="5" facs="tcp:153379:5"/>having that morning about 10 of the Clock, privately withdrew her ſelf, to<g ref="char:EOLhyphen"/>gether with the Child and his Nurſe, and, as we ſidce hear, is arrived in <hi>France.</hi> The Debates of the Council continued a conſiderable time; and altho' ſeveral Lords had been appointed to wait on the Prince, with Pro<g ref="char:EOLhyphen"/>poſals of Accomodations and Right Underſtanding; yet upon the breaking up of this Council, the King about Two of the Clock in the morning, thought fit, privately to withdraw himſelf, which as ſoon as known, cau<g ref="char:EOLhyphen"/>ſed a great Conſternation in the Court; and made, eſpecially the Jeſuits and Prieſts, ſcamper all manner of ways to provide for their ſafety: And the <hi>Proteſtant</hi> Lords who where then in Town, had no ſooner notice of it, but they aſſembled at <hi>White-Hall,</hi> and there of ſome conſideration what was moſt Expedient to be done in ſo Emergent a juncture of Affairs, they Adjourned to the <hi>Guild-Hall</hi> of the City of <hi>London,</hi> where they continued till about Three in the Afternoon; the Court of Aldermen and Common Council being likewiſe aſſembled, whether their Lordſhips ſent for Collonel <hi>Beuil Skelton,</hi> the Lieutenant of the <hi>Tower,</hi> and cauſed him to Reſign the Truſt and power of that Important Citadel, into the Hands of the Lord <hi>Lucas:</hi> And before they departed, drew up their Declaration; That ſeeing the King was gone, and the Government in ſo great a Emergency and Danger, they thought fit to concur with the Prince of <hi>Orange</hi> for pre<g ref="char:EOLhyphen"/>venting thoſe Accidents and Misfortunes that might inſue upon the Kings withdrawing himſelf, <hi>&amp;c.</hi> This being done, and the Lords departed, the Lord Mayor and Aldermen ſat in the Mayo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Court, the Common Councel being there aſſembled, and drew up an Addreſs of Thanks to his Highneſs for his care of the Government, &amp;c. Voting that it ſhould ſuddenly be preſented to him; and four Aldermen, together with eight Commoners, were ſent to wait upon him, and to invite him to the City; and altho' great care was taken by the Trained Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds and Civil Officers, yet that day, towards the Ev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning, the Rabble got together in prodigi<g ref="char:EOLhyphen"/>ous numbers, and pulled down the Maſs-Houſes in St. <hi>Jones's, Lime-ſtreet, Lincolns-Inn-fields,</hi> and Plundered the <hi>Spaniſh</hi> Ambaſſadours Lodgings, and Old <hi>Hill</hi>'s Printing-Houſe, burning and carrying away the Goods, <hi>&amp;c.</hi>
+            </p>
+            <p>On the 13th. of <hi>December</hi> we had the News of the Disbanding the Kings Army by the Earl of <hi>Feverſham;</hi> and the Lord Chancellor being taken in <hi>Wapping,</hi> was brought before the Lord Mayor of the City of <hi>London,</hi> and from thence carried to the <hi>Tower,</hi> whether a Commitment was ſent by the Lords at <hi>Whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-Hall</hi> to ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure him, and the next day no<g ref="char:EOLhyphen"/>tice was given that the King was diſcover<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d near <hi>Feverſham,</hi> in a Veſſel, intending to paſs the Se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eupon ſome Lords were immediately diſpatched to wait upon His Majeſty, to in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat him to return to his Royal pallace, <hi>&amp;c.</hi> whoſe Intreaty ſo far p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evailed, that on <hi>Sunday</hi> the
+<pb n="6" facs="tcp:153379:5"/>16th of <hi>December</hi> he came through the City in his Coach, attended by a ſplendid Train of Nobles and Gentlemen, with all manner of Reſpect and Duty; as likewiſe with the loud Acclamations and Shouts of the Peo<g ref="char:EOLhyphen"/>ple, and ſo proceeded to <hi>Whit<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ll,</hi> where the Nobility and Gentry re<g ref="char:EOLhyphen"/>ſorted to Congratulate his return; and he ſent to invite the Prince to St. <hi>James.</hi>
+            </p>
+            <p>On the 18th. early in the morning, ſome of the Princes Forces were ſent to remove the Guards, and mount them themſelves, upon which the King thought fit to retire to <hi>Rocheſter,</hi> and accordingly did about 12 of the Clock that morning, going through-Bridge in a Barge, but had 3 of his Coaches and ſome Troops to wait upon him when he pleaſed to Land: And about 3 of the Clock the Princes Advance Guards marched through the City; and the Prince in a very ſplendid Equipage, together with Mareſchal <hi>de Scomberg</hi> and his Sons, with a very numerous Train of Noblemen and Gentry, entered the Town by the way of St. <hi>James,</hi> being every where ſaluted with the loud Shouts and Acclamations of the People; and after a ſplendid Entertainment and Repaſt, gave Order for the placing of the Guards, and providing neceſſary and convenient Quarters for his Troops, and Regiments of Foot, and was for the moſt part taken up in paying and receiving of Viſits. The ſeven Biſhops have been to wait upon his Highneſs, and had a very favourable Reception, the Bells ringing, and the Streets illuminated with Bone-fires for the moſt part of the Night: And the ſame day the Common-Council of the City of <hi>London</hi> Aſſembled, and unanimouſly agreed, and ordered that all the Al<g ref="char:EOLhyphen"/>dermen of the ſaid City, and their ſeveral Deputies, with two Common-Council-Men for each Ward ſhould wait upon, and Congratulate his Highneſs the Prince of <hi>Orange</hi> upon his arrival, at ſuch time and place as his Highneſs ſhould appoint them; and that the two Sheriffs with Mr. Common Serjeant ſhould wait upon him to know his Pleaſure, when he would be attended by the ſaid Committee, and accordingly, the 19th the Sheriffs and Common Serjeant attended his Highneſs at his Pallace at St. <hi>James;</hi> and ſince we have News that <hi>Portſmouth</hi> is yielded, and all the conſiderable Towns in <hi>England.</hi> And by our laſt Advice from <hi>Edin<g ref="char:EOLhyphen"/>borough,</hi> we had an account that the Rabble were up in that City, and had pulled down divers Houſes, in oppoſing whom, many, as well the Militia as others, were ſlain: Divers Gentlemen, as well as Prieſts and Jeſuits, have been ſeized, and are ſecured in the ſeveral Goals about Town, <hi>&amp;c.</hi>
+            </p>
+            <p>Upon the Kings retirement to <hi>Rocheſter,</hi> a great Council of the Lords, as well Spiritual as Temporal, aſſembled to Conſult what was convenient to be done in ſo Important a Juncture of Affairs, and conſidering it was ne<g ref="char:EOLhyphen"/>ceſſary to Convene a further Council, the better to ſettle the Affairs of the
+<pb n="7" facs="tcp:153379:6"/>Kingdom, thoſe Parliament Men who were choſen to ſerve in Parliament, in the Reign of King <hi>Charles</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were required to meet or aſſemble them<g ref="char:EOLhyphen"/>ſelves; and accordingly the Pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s and C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mons meeting at <hi>Weſtminſter,</hi> the Lord Mayor of the City of <hi>London,</hi> together with the Commonalty, waited upon his Highneſs the Prince of <hi>Orange,</hi> and having heard his Speech, wherein he reſolved to protect the Proteſtant Religion, and the Laws of the Kingdom Eſtabliſhed, <hi>&amp;c.</hi> they, upon notice given to Conſult as they thought fit for the good of the City, <hi>&amp;c.</hi> retired to <hi>Weſtminſter,</hi> where after ſundry Debates it was agreed, That the Prince ſhould take upon him the Adminiſtration of the Civil ond Military Power till the 22 day of <hi>January</hi> next; a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo to take care of <hi>Ireland,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they ſuppoſed to be in danger, by reaſon of the Earl of <hi>Tyrconnels</hi> being up in Arms with ſundry Roman Catholicks, to which, and other things of the like nature his Highneſs returned a ſuitable and ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isfactory Reply; ſo that it being concluded, that upon this great Aſſembly meeting on the day before men<g ref="char:EOLhyphen"/>tioned, that a <hi>Parliament</hi> ſhould be called to ſettle the Affairs of the Na<g ref="char:EOLhyphen"/>tion. Circulary Letters are ſince Iſſued out for the chuſing of fit Members in all Counties, Burroughs, <hi>&amp;c.</hi> to ſerve in the ſaid <hi>Parliament.</hi> Since theſe proceedings the Earls of <hi>Salisbury, Pete<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burrough,</hi> Baron <hi>Jenner,</hi> and others have been brought to the <hi>Tower,</hi> and ſeveral <hi>Romiſh</hi> Prieſts to <hi>New<g ref="char:EOLhyphen"/>gate.</hi>
+            </p>
+            <p>The King upon his ſecond retirement went to Sir <hi>Richard Heads</hi> Houſe at <hi>Rucheſter,</hi> where he was attended with all manner of Civility and Re<g ref="char:EOLhyphen"/>ſpect becoming his <hi>Character,</hi> as well by his Guards, as ſundry Noble-men and Gentlemen, where he ſent for his Dogs and Hunting Horſe; when on the 23d. of <hi>December,</hi> about 3 in the Morning, contrary to expectati<g ref="char:EOLhyphen"/>on, his Majeſty had withdrawn himſelf from Sir <hi>Richards</hi> with a ſlender company, part by Water, and part by Land, got to the Sea, near <hi>Deal</hi> or <hi>Sandwich,</hi> and wafted over into <hi>France,</hi> where at <hi>Bologne</hi> our laſt Advice left him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
